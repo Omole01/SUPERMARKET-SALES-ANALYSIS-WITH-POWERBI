@@ -8,3 +8,6 @@ Sales are also stronger in certain cities, indicating better market performance 
 Customers use different payment methods, but some are clearly more preferred, which can help the business improve customer convenience. Also, members appear to contribute more consistently, showing that loyalty programs are effective.
 
 In summary, the business is performing well and by focusing on top products, key locations, and customer preferences, it can further increase sales and profitability.
+
+# OVERVIEW OF DASHBOARD
+![DASHBOARD](DASHBOARD.png)
